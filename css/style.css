@@ -117,3 +117,8 @@ img, video, audio {
   height: 0px;
   line-height: 0px;
 }
+
+section {
+  margin-bottom: 20px;
+  padding: 20px; 
+}
